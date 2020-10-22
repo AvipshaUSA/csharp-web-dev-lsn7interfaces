@@ -31,6 +31,7 @@ namespace IceCreamShop
             Flavors.Add(flavor3);
             Flavors.Add(flavor4);
             Flavors.Add(flavor5);
-        } 
+        }
+       
     }
 }
